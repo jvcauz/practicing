@@ -1,0 +1,13 @@
+src/
+└── api/
+    │
+    ├── Main.java
+    │
+    ├── model/
+    │   └── Usuario.java (FEITO)
+    │
+    ├── service/
+    │   └── UsuarioService.java
+    │
+    └── handler/
+        └── UsuarioHandler.java
